@@ -2,6 +2,9 @@
 body{
 	background-color: #f8f8f8;
 }
+h1{
+	text-align: center;
+}
 
 .book-library{
 	background-color: #ffffff;
@@ -10,20 +13,23 @@ body{
 	flex-direction: column;
 }
 .book{
-	margin: 10px;
+	margin-bottom: 10px;
 	border: 1px solid #ccc;
 	padding: 10px;
 	width: 500px;
 }
 .author{
 	color: #777777;
+	margin: 0px;
 }
-.price{
-	background-color: dimgray;
+.price-block{
 	color: #2ecc71;
 	border-style: none;
 	padding: 10px;
 	border-radius: 10px;
 	width: 400px;
-	margin-bottom: 30px;
+	margin: 0px;
+}
+h2{
+	margin: 0px;
 }
