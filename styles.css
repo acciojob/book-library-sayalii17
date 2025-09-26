@@ -25,6 +25,7 @@ h1{
 }
 .price-block{
 	background-color: rgb(46, 204, 113);
+	color: rgb(255, 255, 255);
 	border-style: none;
 	padding: 10px;
 	border-radius: 10px;
