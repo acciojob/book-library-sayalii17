@@ -25,12 +25,18 @@ h1{
 }
 .price-block{
 	background-color: rgb(46, 204, 113);
-	color: #2ecc71;
 	border-style: none;
 	padding: 10px;
 	border-radius: 10px;
 	width: 400px;
 	margin: 0px;
+}
+.price-block p{
+	color: #fff;
+	padding: 10px;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 16px;
 }
 h2{
 	margin: 0px;
